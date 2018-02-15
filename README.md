@@ -30,6 +30,13 @@ And many, many private ones :)
 * [ClickerCheats](https://github.com/HoLLy-HaCKeR/ClickerCheats) - A small JS snippet to provide a cheating menu in various HTML5 idle games.
 * [Biertijd Downloader Reloaded](https://github.com/HoLLy-HaCKeR/BiertijdDownloaderReloaded) *[NSFW]* - A tribute to one of my very first programs: a tiny downloader for the biertijd.xxx, a site containing erotic photoshoots.
 
+### Archived
+These projects are abandoned and/or very bad but are of historical value.
+
+* [BetterDiscord themes and plugins](//github.com/HoLLy-HaCKeR/BetterDiscord-Themes-and-Plugins) - A repo containing Javascript plugins or CSS styles for use with [BetterDiscord](//betterdiscord.net/home/), which alters the popular IM client Discord. A notable plugin was one to make the Discord application window transparant, which hadn't been done before. This repo is archived as I have no interest in using BetterDiscord anymore.
+* [osu! custom server](//github.com/HoLLy-HaCKeR/osu-custom-server) & [custom bancho](//github.com/HoLLy-HaCKeR/custom-bancho) - The server software that ran the very first custom osu! server (using host redirection and an unedited client). The code is horrible and the bancho part is basically a stub, but "It Works™".
+
+
 ## Contact
 
-For now, you can contact me on Discord through [my server](https://discord.gg/0e7gM6RjkTznMa9y).
+For now, you can contact me on Discord through [my server](//discord.gg/0e7gM6RjkTznMa9y).
