@@ -25,7 +25,7 @@ And many, many private ones :)
 
 ### Cheating, botting and automation
 
-* **[DeezSharp](//github.com/HoLLy-HaCKeR/DeezSharp)** - A library to to interact with the public and private API of [Deezer](//www.deezer.com/), a music streaming service similar to Spotify. This library allows you to download a track with its metadata, album information, artist information and use the search function.
+* **[DeezSharp](//github.com/HoLLy-HaCKeR/DeezSharp)** *[DMCA'd]* - A library to to interact with the public and private API of [Deezer](//www.deezer.com/), a music streaming service similar to Spotify. This library allows you to download a track with its metadata, album information, artist information and use the search function.
 * [UnovaRPGlib](//github.com/HoLLy-HaCKeR/UnovaRPGlib) - A library to programatically access the online Pokémon RPG [UnovaRPG](//www.unovarpg.com/).
 * [ClickerCheats](https://github.com/HoLLy-HaCKeR/ClickerCheats) - A small JS snippet to provide a cheating menu in various HTML5 idle games.
 * [Biertijd Downloader Reloaded](https://github.com/HoLLy-HaCKeR/BiertijdDownloaderReloaded) *[NSFW]* - A tribute to one of my very first programs: a tiny downloader for the biertijd.xxx, a site containing erotic photoshoots.
