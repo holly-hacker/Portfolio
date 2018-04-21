@@ -25,6 +25,7 @@ And many, many private ones :)
 
 ### Cheating, botting and automation
 
+* **[SWSniff](//github.com/HoLLy-HaCKeR/SWSniff)** - A tool to sniff and inject traffic from multiplayer games for automation and exploitation. This library is focused on the Action MORPG SoulWorker, but can be easily used as a base for sniffers for  other games
 * **[DeezSharp](//github.com/HoLLy-HaCKeR/DeezSharp)** *[DMCA'd]* - A library to to interact with the public and private API of [Deezer](//www.deezer.com/), a music streaming service similar to Spotify. This library allows you to download a track with its metadata, album information, artist information and use the search function.
 * [UnovaRPGlib](//github.com/HoLLy-HaCKeR/UnovaRPGlib) - A library to programatically access the online Pokémon RPG [UnovaRPG](//www.unovarpg.com/). It allows you to automate various tasks, including grinding XP..
 * [ClickerCheats](//github.com/HoLLy-HaCKeR/ClickerCheats) - A small JS snippet to provide a cheating menu in various HTML5 idle games.
