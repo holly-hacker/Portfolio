@@ -26,14 +26,17 @@ And many, many private ones :)
 ### Cheating, botting and automation
 
 * **[SWSniff](//github.com/HoLLy-HaCKeR/SWSniff)** - A tool to sniff and inject traffic from multiplayer games for automation and exploitation. This library is focused on the Action MORPG SoulWorker, but can be easily used as a base for sniffers for  other games
-* **[DeezSharp](//github.com/HoLLy-HaCKeR/DeezSharp)** *[DMCA'd]* - A library to to interact with the public and private API of [Deezer](//www.deezer.com/), a music streaming service similar to Spotify. This library allows you to download a track with its metadata, album information, artist information and use the search function.
 * [UnovaRPGlib](//github.com/HoLLy-HaCKeR/UnovaRPGlib) - A library to programatically access the online Pokémon RPG [UnovaRPG](//www.unovarpg.com/). It allows you to automate various tasks, including grinding XP..
 * [ClickerCheats](//github.com/HoLLy-HaCKeR/ClickerCheats) - A small JS snippet to provide a cheating menu in various HTML5 idle games.
 * [Biertijd Downloader Reloaded](//github.com/HoLLy-HaCKeR/BiertijdDownloaderReloaded) *[NSFW]* - A tribute to one of my very first programs: an image downloader for the biertijd.xxx, a site containing erotic photoshoots. It is tiny (>50 LoC in total, 17 LoC actual logic) and very fast thanks to multi-threaded downloading.
 
+### Others
+* [DiscordCSS](//github.com/HoLLy-HaCKeR/DiscordCSS) - A list of CSS userstyles for Discord, an electron-based instant messaging app.
+
 ### Archived
 These projects are abandoned and/or very bad but are of historical value.
 
+* **[DeezSharp](//github.com/HoLLy-HaCKeR/DeezSharp)** *[DMCA'd]* - A library to to interact with the public and private API of [Deezer](//www.deezer.com/), a music streaming service similar to Spotify. This library allows you to download a track with its metadata, album information, artist information embedded as ID3v2 metadata and use the search function to find tracks.
 * [BetterDiscord themes and plugins](//github.com/HoLLy-HaCKeR/BetterDiscord-Themes-and-Plugins) - A repo containing Javascript plugins or CSS styles for use with [BetterDiscord](//betterdiscord.net/home/), which alters the popular IM client Discord. A notable plugin was one to make the Discord application window transparant, which hadn't been done before. This repo is archived as I have no interest in using BetterDiscord anymore.
 * [osu! custom server](//github.com/HoLLy-HaCKeR/osu-custom-server) & [custom bancho](//github.com/HoLLy-HaCKeR/custom-bancho) - The server software that ran the very first custom osu! server (using host redirection and an unedited client). The code is horrible and the bancho part is basically a stub, but "It Works™". This project is notable because it was the first of its kind, and inspired the popular Nosue (now abandoned) and [Ripple](//ripple.moe) custom servers.
 
