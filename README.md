@@ -20,7 +20,7 @@ And many, many private ones :)
 ### .NET reverse engineering, obfuscation and deobfuscation
 
 * **[EazFixer](//github.com/HoLLy-HaCKeR/EazFixer)** - EazFixer is a tool to deobfuscate .NET assemblies obfuscated with the commercial .NET obfuscator [EazFuscator](//www.gapotchenko.com/eazfuscator.net). It is capable of restoring obfuscated strings, resources and embedded assemblies.
-* **[Confuser.Protections.HoLLy](//github.com/HoLLy-HaCKeR/Confuser.Protections.HoLLy)** - A set of protection modules for amazing the open-source ConfuserEx obfuscator.
+* **[Confuser.Protections.HoLLy](//github.com/HoLLy-HaCKeR/Confuser.Protections.HoLLy)** - A set of protection modules for the amazing open-source ConfuserEx obfuscator.
 * [ConfuserEx](//github.com/HoLLy-HaCKeR/ConfuserEx) *[Fork]* - Documented various features and added some minor ones.
 
 ### Cheating, botting and automation
